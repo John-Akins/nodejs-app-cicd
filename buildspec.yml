@@ -12,12 +12,12 @@ phases:
     commands:
       - echo Installing source NPM dependencies...
       - npm install
-      - npm install unit.js
+
   build:
     commands:
       - echo Build started on `date`
       - echo Compiling the Node.js code
-      - npm run prestart
+      - npm run start
       
   post_build:
     commands:
@@ -34,4 +34,8 @@ artifacts:
     - app.js
     - package.json
     - appspec.yml
-    
+    - routes/*
+    - views/*
+    - scripts/*
+    - public/*
+    - bin/*    
