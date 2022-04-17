@@ -1,0 +1,108 @@
+{
+    "users": [
+        {
+            "id": 11987836,
+            "firstName": "Caterina",
+            "lastName": "Ullrich",
+            "email": "Berneice69@yahoo.com",
+            "avatar": "http://lorempixel.com/640/480"
+        },
+        {
+            "id": 82174218,
+            "firstName": "Bennie",
+            "lastName": "Oberbrunner",
+            "email": "Laverna_Stoltenberg0@gmail.com",
+            "avatar": "http://lorempixel.com/640/480"
+        },
+        {
+            "id": 13971344,
+            "firstName": "Skyla",
+            "lastName": "Fritsch",
+            "email": "Zora_Conroy@yahoo.com",
+            "avatar": "http://lorempixel.com/640/480"
+        },
+        {
+            "id": 79002811,
+            "firstName": "Kade",
+            "lastName": "Gleichner",
+            "email": "Dave84@hotmail.com",
+            "avatar": "http://lorempixel.com/640/480"
+        },
+        {
+            "id": 17874511,
+            "firstName": "Garry",
+            "lastName": "Witting",
+            "email": "Rubie.Nitzsche@gmail.com",
+            "avatar": "http://lorempixel.com/640/480"
+        }
+    ],
+    "posts": [
+        {
+            "id": 56230224,
+            "title": "Elaina",
+            "body": "McLaughlin",
+            "author": "Grant Schimmel",
+            "avatar": "http://lorempixel.com/640/480"
+        },
+        {
+            "id": 48003584,
+            "title": "Wilburn",
+            "body": "Leannon",
+            "author": "Jaycee Nienow",
+            "avatar": "http://lorempixel.com/640/480"
+        },
+        {
+            "id": 8230521,
+            "title": "Rossie",
+            "body": "King",
+            "author": "Marcel Heller",
+            "avatar": "http://lorempixel.com/640/480"
+        },
+        {
+            "id": 11871518,
+            "title": "Matilda",
+            "body": "Ferry",
+            "author": "Hosea Howe",
+            "avatar": "http://lorempixel.com/640/480"
+        },
+        {
+            "id": 75465300,
+            "title": "Hardy",
+            "body": "Leffler",
+            "author": "Violet Block",
+            "avatar": "http://lorempixel.com/640/480"
+        }
+    ],
+    "comments": [
+        {
+            "id": 45221617,
+            "username": "Llewellyn Sporer",
+            "body": "Est sunt natus deleniti deleniti dignissimos. Totam quia qui at debitis reiciendis velit reprehenderit eveniet. Quis et totam nobis. Voluptatum quo temporibus repellendus.",
+            "avatar": "http://lorempixel.com/640/480"
+        },
+        {
+            "id": 10403180,
+            "username": "Nicolette Greenholt",
+            "body": "Sunt omnis cum vel voluptatibus id qui error et sapiente. Ut et quis sequi repellat. Aliquid molestiae ipsa. Consequatur aliquam aut aut.",
+            "avatar": "http://lorempixel.com/640/480"
+        },
+        {
+            "id": 45044394,
+            "username": "Shannon Lesch",
+            "body": "Placeat hic rerum nam nesciunt nihil distinctio minus iste aperiam. Quis qui itaque totam molestias facere et. Mollitia commodi iste ipsam illo. Minima consequatur natus in. Et sit explicabo pariatur earum illo qui sint. Ipsam error tenetur doloribus vero aut omnis.",
+            "avatar": "http://lorempixel.com/640/480"
+        },
+        {
+            "id": 29741084,
+            "username": "Carleton Cormier",
+            "body": "Ipsa rerum sed. Iste consequuntur molestiae. Perspiciatis assumenda aut perferendis quam.",
+            "avatar": "http://lorempixel.com/640/480"
+        },
+        {
+            "id": 55146281,
+            "username": "Lewis Kemmer I",
+            "body": "Voluptas culpa impedit accusamus excepturi eaque sed qui consequatur asperiores. Ut accusantium omnis eveniet sunt atque. Explicabo voluptatum at adipisci et. Fuga porro dolor consequatur et. Qui sint assumenda et est praesentium molestiae sunt architecto.",
+            "avatar": "http://lorempixel.com/640/480"
+        }
+    ]
+}
